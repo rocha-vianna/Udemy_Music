@@ -1,2 +1,3 @@
 # Udemy_Music
-Construção de um projeto python utilizando um dataset que contém informações sobre os cursos de música na Udemy
+Projeto de Análise de Dados, feito em 11/2022, utilizando Python.
+Contém dados sobre os cursos de música na Udemy.
